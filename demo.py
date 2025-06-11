@@ -6,7 +6,7 @@ import time
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 API_KEY        = "Bg7PeInJakWgMqsR7S1w"
 WORKSPACE_NAME = "visionary-project-a56hi"      
-WORKFLOW_ID    = "custom-workflow-3" 
+WORKFLOW_ID    = "production3" 
 INPUT_VIDEO    = "testVideoSwitch.mp4"
 OUTPUT_VIDEO   = "output_fight_with_timers.mp4"
 
